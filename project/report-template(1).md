@@ -40,7 +40,6 @@ TODO: Replace the image below with your own.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
 ![model_test_score.png](Project_1_Bike-demand/cd0385-project-starter/project/img/model_test_score.png)
 
 ## Summary
